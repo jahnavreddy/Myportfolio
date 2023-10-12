@@ -1,0 +1,46 @@
+body{
+  background-color: black;
+  color: white;
+  font-size: x-large;
+  padding: 250px;
+  
+}
+.about3{
+  border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+    width: 700px;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    font-family:cursive;
+    box-shadow: 0px 0px 2px 2px rgb(255, 255, 255);
+    margin-left: 170px;
+    margin-top: 10px;
+
+}
+
+.about3:active {
+  transform: scale(0.96);
+}
+
+.about3:hover {
+  box-shadow: 0px 4px 5px rgb(245, 245, 242), 0 0 25px cyan;
+  box-shadow: 0px 4px 50px rgb(255, 255, 255), 0 0 100px cyan;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#ho{
+  margin-top: 200px;
+}
+
+#main{
+  margin-top: 250px;
+  margin-left: 1150px;
+  background-color: black;
+  color: white;
+}
